@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/21009920-GitHub-Logo-Animation.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/19797305-Diffraction-icon.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya227&label=Profile%20views&color=0e75b6&style=flat" alt="ananya227" /> </p>
 
