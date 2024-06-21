@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Java, Spring**.
 
 - 📫 How to reach me **ananyayadav227@gmail.com**
 
