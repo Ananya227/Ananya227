@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Maven , Dependency Injection**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**.
 
 - 💬 Ask me about **Java, Spring**.
 
